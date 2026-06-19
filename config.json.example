@@ -1,0 +1,8 @@
+{
+  "proxy": {
+    "host": "YOUR_PROXY_HOST",
+    "port": 1080,
+    "username": "YOUR_USERNAME",
+    "password": "YOUR_PASSWORD"
+  }
+}
